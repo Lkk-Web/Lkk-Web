@@ -10,7 +10,7 @@ Hi~ 👋 我是醒来就想躺，一名前端开发者，大前端领域持续�
 
 欢迎讨论各种【前端】话题，一起成长 😉
 
-[更多>>]()
+[博客>>](https://oss.kyingsoft.cn/blog)
 
 ![Lkk-Web's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lkk-Web)
 
