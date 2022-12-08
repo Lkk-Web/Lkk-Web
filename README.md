@@ -6,7 +6,7 @@
 <!-- [![掘金](https://img.shields.io/badge/掘金-@‘’-blue)]()
 [![微信公众号](https://img.shields.io/badge/公众号-@‘’-yellowgreen)]() -->
 
-Hi~ 👋 我是醒来就想躺，一名前端开发者，大前端领域持续学习中～
+Hi~ 👋 我是醒来就想躺，一名前端开发者
 
 欢迎讨论各种【前端】话题，一起成长 😉
 
