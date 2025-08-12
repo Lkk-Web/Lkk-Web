@@ -6,13 +6,15 @@
 <!-- [![掘金](https://img.shields.io/badge/掘金-@‘’-blue)]()
 [![微信公众号](https://img.shields.io/badge/公众号-@‘’-yellowgreen)]() -->
 
-Hi~ 👋 我是醒来就想躺，一名前端开发者
+Hi~ 👋 我是醒来就想躺，一名前端 / 全栈开发者
 
-欢迎讨论各种【前端】话题，一起成长 😉
+欢迎讨论各种技术话题，一起成长 😉
 
 [博客>>](https://oss.kyingsoft.cn/blog)
 
 ![Lkk-Web's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lkk-Web)
+
+Portfolio Demo: [SSR]()、[code diff]()、[markdown]() 
 
 <!--
 **Lkk-Web/Lkk-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
