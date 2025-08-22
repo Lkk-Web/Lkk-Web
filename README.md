@@ -14,7 +14,7 @@ Hi~ 👋 我是醒来就想躺，一名前端 / 全栈开发者
 
 ![Lkk-Web's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lkk-Web)
 
-Portfolio Demo: [SSR]()、[code diff]()、[markdown]() 
+Portfolio Demo: [SSR](http://124.220.1.182/next-ssr)、[code diff](https://stb.kying.org/diff/index.html)...
 
 <!--
 **Lkk-Web/Lkk-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
