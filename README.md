@@ -10,11 +10,25 @@ Hi~ 👋 我是醒来就想躺，一名前端 / 全栈开发者
 
 欢迎讨论各种技术话题，一起成长 😉
 
-[博客>>](https://stb.kying.org/blog/index.html)
+👋 关于我 | About Me
 
-![Lkk-Web's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lkk-Web)
+- 👨‍💻 职业：React / Node.js / Golang / Mysql / MongoDB / ...
+- 🌱 关注方向：
+	- Web 全栈架构
+	- 工程化 & 性能优化
+	- 后端 / 数据库 / 分布式
+	- AI 在业务中的落地
 
-Portfolio Demo: [SSR](http://124.220.1.182/next-ssr)、[code diff](https://stb.kying.org/diff/index.html)...
+📮 联系我 | Contact
+
+- GitHub: https://github.com/Lkk-Web
+- Blog: https://stb.kying.org/blog/index.html
+- Email: workhardcl@icloud.com
+
+🚀 最近更新 | Recent Updates
+
+- ✅ tag v1.0.0 2026-02-04 - 2026-02-07《MongoDB Schema设计、聚合管道（Aggregation Pipeline）、事务与一致性、索引》
+
 
 <!--
 **Lkk-Web/Lkk-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
