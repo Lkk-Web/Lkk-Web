@@ -12,7 +12,7 @@ Hi~ 👋 我是醒来就想躺，一名前端 / 全栈开发者
 
 👋 关于我 | About Me
 
-- 👨‍💻 职业：React / Node.js / Golang / Mysql / MongoDB / ...
+- 👨‍💻 职业：React / Node.js / Golang / Mysql / MongoDB / CICD / package manage...
 - 🌱 关注方向：
 	- Web 全栈架构
 	- 工程化 & 性能优化
@@ -25,9 +25,13 @@ Hi~ 👋 我是醒来就想躺，一名前端 / 全栈开发者
 - Blog: https://stb.kying.org/blog/index.html
 - Email: workhardcl@icloud.com
 
+---
+
 🚀 最近更新 | Recent Updates
 
-- ✅ tag v1.0.0 2026-02-04 - 2026-02-07《MongoDB Schema设计、聚合管道（Aggregation Pipeline）、事务与一致性、索引》
+- ✅ tag v1.0.0 2026-02-04 - 2026-02-07《MongoDB Schema设计、聚合管道（Aggregation Pipeline）、事务一致性、索引设计》
+- 📖 tag v1.1.0 2026-02-09 - 2026-02-13《Redis Redis 概念、基本数据类型和操作命令、基本键操作》
+- 📖 tag v1.2.0 2026-02-16 - 2026-02-23《Nest monorepo + AI mini + CICD github webhook + go微服务》
 
 
 <!--
