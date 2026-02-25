@@ -30,8 +30,8 @@ Hi~ 👋 我是醒来就想躺，一名前端 / 全栈开发者
 🚀 最近更新 | Recent Updates
 
 - ✅ tag v1.0.0 2026-02-04 - 2026-02-07《MongoDB Schema设计、聚合管道（Aggregation Pipeline）、事务一致性、索引设计》
-- 📖 tag v1.1.0 2026-02-09 - 2026-02-13《Redis Redis 概念、基本数据类型和操作命令、基本键操作》
-- 📖 tag v1.2.0 2026-02-16 - 2026-02-23《Nest monorepo + AI mini + CICD github webhook + go微服务》
+- 📖 tag v1.1.0 2026-02-25 - 2026-02-28《Redis Redis 概念、基本数据类型和操作命令、基本键操作》
+- 📖 tag v1.2.0 2026-02-24 - 2026-02-28《Nest monorepo + AI mini + CICD github webhook + go微服务》
 
 
 <!--
